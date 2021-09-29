@@ -170,7 +170,7 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col justify-between min-h-screen px-4 text-white bg-red-400 w-100">
+    <div className="flex flex-col justify-between min-h-screen px-4 text-white w-100">
       <Head>
         <title>Cap Verbatim Flowchart</title>
         <meta name="description" content="For all those boring verbatims" />

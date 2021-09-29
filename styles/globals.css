@@ -36,4 +36,6 @@
 
 body {
   min-height: 100vh;
+  /* Background for whole page */
+  @apply bg-red-400;
 }
