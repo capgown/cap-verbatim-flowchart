@@ -63,7 +63,7 @@ const steps = {
     ],
   },
   GIVE_UP: {
-    text: 'Did this chart at any point make you think "ahh idk if its worth it to keep going" or otherwise cause doubt?',
+    text: 'Did this chart at any point make you think "ahh idk if it\'s worth it to keep going" or otherwise cause doubt?',
     type: stepTypes.QUESTION,
     options: [
       { text: "No, I'm confident.", nextStep: stepIDs.GO_AHEAD },
