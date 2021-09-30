@@ -1,0 +1,15 @@
+{
+  "short_name": "Cap & Gown Verbatim",
+  "name": "Cap & Gown Verbatim Flowchart",
+  "icons": [
+    {
+      "src": "images/capicon.png",
+      "type": "image/png",
+      "sizes": "192x226"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#F4F3F3"
+}
