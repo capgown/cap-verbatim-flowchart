@@ -174,7 +174,7 @@ export default function Home() {
       <Head>
         <title>Cap Verbatim Flowchart</title>
         <meta name="description" content="For all those boring verbatims" />
-        <meta name="theme-color" content="#F87171" />
+        <meta name="theme-color" content="#df6565" />
         <link rel="icon" href="/images/capicon.png" />
         <link rel="apple-touch-icon" href="/images/capicon.png" />
         <link rel="manifest" href="/manifest.json" />
